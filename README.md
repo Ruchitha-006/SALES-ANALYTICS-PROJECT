@@ -30,7 +30,7 @@ The goal of this project is not just visualization, but **business-oriented deci
 sales-analytics-project/
 │
 ├── data/
-│ └── sales_data.csv
+│ └── sales_data.csvss
 │
 ├── notebooks/
 │ └── sales_analysis.ipynb
